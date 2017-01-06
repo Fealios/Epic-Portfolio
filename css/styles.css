@@ -5,7 +5,7 @@ body {
 #sidebar {
   width: 180px;
   position: absolute;
-  border: solid;
+  /*border: solid;*/
   /*height: 100%;*/
 }
 
@@ -23,7 +23,7 @@ body {
 
 /*end of Sidebar styling --------------------------------*/
 #super {
-  border: solid green;
+  /*border: solid green;*/
   margin-left: 180px;
   margin-top: 10px;
 }
@@ -31,7 +31,7 @@ body {
 .container {
   width: 100%;
   padding: 20px;
-  border: solid blue;
+  /*border: solid blue;*/
 }
 
 #about-me {
@@ -40,5 +40,10 @@ body {
 
 /*end of Main Body styling ----------------------------------*/
 #projects {
-  border: solid orange;
+  /*border: solid orange;*/
+
+}
+
+.project-images {
+  width: 100%;
 }
