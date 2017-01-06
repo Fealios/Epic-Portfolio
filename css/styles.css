@@ -3,7 +3,7 @@ body {
 }
 
 #sidebar {
-  width: 200px;
+  width: 180px;
   float: left;
   position: absolute;
   border: solid;
@@ -11,7 +11,13 @@ body {
 }
 
 #sidebar img {
-  width: 100px;
+  width: 100%;
 }
 
 /*end of Sidebar styling --------------------------------*/
+
+#super {
+  margin-left: 200px;
+  width: 100%;
+  border: solid;
+}
