@@ -4,10 +4,9 @@ body {
 
 #sidebar {
   width: 180px;
-  float: left;
   position: absolute;
   border: solid;
-  height: 100%;
+  /*height: 100%;*/
 }
 
 #sidebar img {
@@ -19,13 +18,34 @@ body {
 }
 
 #gh-link {
-  
+
 }
 
 /*end of Sidebar styling --------------------------------*/
 
-#super {
-  margin-left: 200px;
-  width: 100%;
+/*#super {
+  margin-left: 180px
+  width: 100%
   border: solid;
+}
+
+.container {
+  margin-left: 180px;
+  width: 100%;
+  border: solid green;
+}*/
+
+#super {
+  /*border: solid green;*/
+  margin-left: 180px;
+  margin-top: 10px;
+}
+
+.container {
+  width: 100%;
+  padding: 20px;
+}
+
+#about-me {
+  /*width: 100%;*/
 }
