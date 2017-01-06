@@ -52,6 +52,9 @@ body {
 
 #about-me {
   /*width: 100%;*/
+  margin-bottom: 3%;
+  border-bottom: dashed 2px #830300;
+  padding-bottom: 4%;
 }
 
 /*end of Main Body styling ----------------------------------*/
