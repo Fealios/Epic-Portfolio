@@ -1,17 +1,26 @@
 body {
-  background-color: pink;
+  padding: 15px;
+  background-color: #ebc1d2
 }
 
 #sidebar {
-  width: 180px;
+  margin-top: 8px;
+  width: 250px;
+  padding-top: 50px;
+  padding-left: 20px;
+  /*border: solid 3px #b98eb1;*/
+  border-radius: 6px;
   position: absolute;
-  /*border: solid;*/
-  /*height: 100%;*/
+  background-color: #433c5e;
+  height: 100%;
+  color: #fefa99;
 }
 
 #sidebar img {
-  width: 100%;
+  width: 210px;
+  border-radius: 4px;
 }
+
 
 #blerb {
 
@@ -24,13 +33,15 @@ body {
 /*end of Sidebar styling --------------------------------*/
 #super {
   /*border: solid green;*/
-  margin-left: 180px;
+  margin-left: 250px;
   margin-top: 10px;
+  background-color: #b98eb1;
+  border-radius: 1px;
 }
 
 .container {
   width: 100%;
-  padding: 20px;
+  padding: 25px;
   /*border: solid blue;*/
 }
 
