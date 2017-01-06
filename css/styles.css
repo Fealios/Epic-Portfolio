@@ -1,0 +1,17 @@
+body {
+  background-color: pink;
+}
+
+#sidebar {
+  width: 200px;
+  float: left;
+  position: absolute;
+  border: solid;
+  height: 100%;
+}
+
+#sidebar img {
+  width: 100px;
+}
+
+/*end of Sidebar styling --------------------------------*/
