@@ -22,21 +22,8 @@ body {
 }
 
 /*end of Sidebar styling --------------------------------*/
-
-/*#super {
-  margin-left: 180px
-  width: 100%
-  border: solid;
-}
-
-.container {
-  margin-left: 180px;
-  width: 100%;
-  border: solid green;
-}*/
-
 #super {
-  /*border: solid green;*/
+  border: solid green;
   margin-left: 180px;
   margin-top: 10px;
 }
@@ -44,8 +31,14 @@ body {
 .container {
   width: 100%;
   padding: 20px;
+  border: solid blue;
 }
 
 #about-me {
   /*width: 100%;*/
+}
+
+/*end of Main Body styling ----------------------------------*/
+#projects {
+  border: solid orange;
 }
