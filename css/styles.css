@@ -56,6 +56,10 @@ body {
 .panel-body {
   font-size: 16px;
 }
+
+span {
+  font-style: oblique;
+}
 /*end of Main Body styling ----------------------------------*/
 
 #projects {
