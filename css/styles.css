@@ -1,12 +1,12 @@
 body {
   padding: 15px;
-  background-color: #ebc1d2
+  background-color: #b98eb1;
 }
 
 #sidebar {
   margin-top: 8px;
   width: 250px;
-  padding-top: 50px;
+  padding-top: 100px;
   padding-left: 20px;
   /*border: solid 3px #b98eb1;*/
   border-radius: 6px;
@@ -14,6 +14,7 @@ body {
   background-color: #433c5e;
   height: 100%;
   color: #fefa99;
+  font-size: 17px;
 }
 
 #sidebar img {
@@ -21,6 +22,9 @@ body {
   border-radius: 4px;
 }
 
+#sidebar a {
+  color: #cf83bc;
+}
 
 #blerb {
 
@@ -33,10 +37,11 @@ body {
 /*end of Sidebar styling --------------------------------*/
 #super {
   /*border: solid green;*/
-  margin-left: 250px;
+  margin-left: 258px;
   margin-top: 10px;
-  background-color: #b98eb1;
-  border-radius: 1px;
+  background-color: #fffde0;
+  border-radius: 2px;
+  color: #830300;
 }
 
 .container {
@@ -57,4 +62,6 @@ body {
 
 .project-images {
   width: 100%;
+  border: solid 2px #830300;
+  border-radius: 2px;
 }
